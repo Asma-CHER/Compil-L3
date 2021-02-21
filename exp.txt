@@ -1,0 +1,62 @@
+$$include <InOut> 
+$$include <Arithme>
+
+ALGORITHME ISI          /**w**sdsaggr****/
+VAR
+
+	FONCTION calcul( n:entier . M: reel .g :chaine) : reel 
+	VAR z.g :chaine# 
+	    e.y.z :entier#
+	
+	     
+	DEBUT
+		n:=200#
+		d:=a+b#
+		return n#
+	FIN
+	
+	FONCTION calcul2 ( j:entier . i: chaine) : chaine 
+	VAR n.m :chaine#       
+	DEBUT
+		m:=200#
+		return m#
+	FIN 
+	 
+      isil :reel#
+	X :chaine#
+	x.g.y.t.i:entier# 
+	sh : entier#
+	CONST c:entier#
+	CONST a.b.n.d:reel#
+	CONST f:chaine#
+	r:entier#
+	q:entier#
+	TABLEAU T[9] :reel#
+	TABLEAU S[9] :reel#
+	
+	e:entier#
+	s :chaine#
+	
+DEBUT
+ 
+    isil:=32767/6#
+    t[i] := a+b/2/0#
+	
+	
+	
+	t[i] := a+b/2#
+	t[100] := a+b/2#
+	t[i] := t[i]+t[i]/2#
+	
+	
+	tanque (a<=3)
+	  Faire  
+	   
+	   isil:=100+X#
+	    
+	   
+	  Fait
+	  
+	
+FIN
+
